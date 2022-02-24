@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the knights, citizens, and burgesses of the House of Commons in Parliament assembled, proposals most humbly offered for raising (in all likelyhood) upwards of five millions of money, without charging the poor, or burthening the rich by such ways and means, that (for the greatest part thereof) the payers will voluntarily tax themselves : as also some objections answered, and a method proposed for the easie collection thereof, with much certainty and small charge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51808</idno>
+            <idno type="STC">Wing M49</idno>
+            <idno type="STC">ESTC R12289</idno>
+            <idno type="EEBO-CITATION">12426263</idno>
+            <idno type="OCLC">ocm 12426263</idno>
+            <idno type="VID">61867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 361:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the knights, citizens, and burgesses of the House of Commons in Parliament assembled, proposals most humbly offered for raising (in all likelyhood) upwards of five millions of money, without charging the poor, or burthening the rich by such ways and means, that (for the greatest part thereof) the payers will voluntarily tax themselves : as also some objections answered, and a method proposed for the easie collection thereof, with much certainty and small charge.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.M.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61867:1" rendition="simple:additions"/>
+            <p>To the Honourable the Knights, Citizens, and Burgeſſes OF THE <hi>Houſe of Commons</hi> In PARLIAMENT Aſſembled, PROPOSALS Moſt Humbly Offered FOR Raiſing (in all Likelyhood) upwards of Five Millions of Money, without Charging the Poor, or Bur<g ref="char:EOLhyphen"/>thening the Rich.</p>
+            <p>BY Such Ways and Means, that (for the greateſt part thereof) the Payers will voluntarily Tax them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>AS ALSO Some Objections anſwered, And a Method pro<g ref="char:EOLhyphen"/>poſed for the eaſie Collection thereof, with much Certainty and ſmall Charge.</p>
+            <p>
+               <hi>London:</hi> Printed for the Author, 1696</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61867:2"/>
+            <pb n="3" facs="tcp:61867:2"/>
+            <head>PROPOSALS, &amp;c.</head>
+            <p>The Means are as followeth, <hi>(viz.)</hi>
+            </p>
+            <p n="1">1. THAT the Sum of one Shilling be laid on every Thouſand of Bricks and Tyles, payable by the Buyer (except for ſuch as ſhall be uſed in the King's Buildings and Repairs, and of thoſe uſed in Building and Repairing of Churches, Chappels, Hoſpitals, and Alms-Houſes.) And the Brick or Tyle-maker to pay Duty for what he ſhall convert to his own Uſe in Building. This will chiefly, but eaſily affect only Moneyed Men, infected with the Plaguy Itch of Building.</p>
+            <p n="2">2. That for every Perſon who ſhall Learn Muſick, Singing, or Dancing, the Sum of Two Shillings <hi>per</hi> Month or Quarter, payable at the beginning of each Month or Quarter; one Moiety by the Maſter or Teacher, and the other by the Schollar. This will as much affect the Moneyed Mechanick, as the Duke, Lord or Eſquire.</p>
+            <p n="3">3. That twelve Pence in the Pound be laid on the Price of all Gold Chains, Rings, Pearl, and Jewels whatſoever, Clocks, Gold and Silver Watches: And three Pence <hi>per</hi> Ounce on all Silver Plate Bought or Exchanged; and on Gold and Silver Lace and Fringe, or any Lace or Fringe mixed with Gold or Silver, payable by the Conſumptioner. Theſe, though not abſolutely Neceſſary, will equally affect from the Crown to the Moneyed Clown.</p>
+            <p n="4">4. That twelve Pence in the Pound Value be laid on all <hi>China</hi> Ware, Cabinets, Tables and Stands, Strong Boxes, and Eſcritoires, payable by the Conſumptioner.</p>
+            <p n="5">5. That the Sum of Five Shillings <hi>per</hi> Piece be laid on all Pictures Imported, payable by the Importer: And the Sum of two Shillings in the Pound for all Pictures ſold by Auction or otherwiſe; and the like Sum of two Shillings in the Pound on all Pictures Drawn by the Life or otherwiſe, in Oyl, Water, or dry Colours: The one Moiety by the Drawer or Seller, and the other by the Buyer: Alſo two Shillings for every Engraved Sculpture on Braſs or Copper, or Meza-tinta Plate or Cutt; payable by the Engraver before it ſhall be printed off.</p>
+            <pb n="4" facs="tcp:61867:3"/>
+            <p n="6">6. That the Sum of Twelve Pence in the Pound value be laid on all Hatts, Peruques, and Commodes or Head-Dreſſes for Women, and on Muffs and Tippets (except for Common-Soldiers Hatts, and ſuch as are under the Price of Five Shillings) to be paid by the Con<g ref="char:EOLhyphen"/>ſumptioner. It is here meant, and ſo in other things, that from Five Shillings, and under Twenty Shillings, to pay but Sixpence, and ſo to advance and pay at the Rate of Sixpence for every Ten Shillings in the Price of any Commodity; and all under Five Shillings for eaſe of the Poor in paying nothing.</p>
+            <p n="7">7. That Six Pence be laid on every Play-houſe Ticket for Box or Pit, and ſo proportionably for other places; and for all Stage-Plays, and Shows at Fairs, <hi>&amp;c.</hi> payable by the Spectators, at their entrance into ſuch Play or Show, <hi>&amp;c.</hi>
+            </p>
+            <p n="8">8. That Twelve Pence in the Pound value be laid on every ori<g ref="char:EOLhyphen"/>ginal Copy of Book, Pamphlet or Play, that ſhall be printed; the one Moiety by the Author, and the other by the Purchaſer of ſuch Copy; unleſs the Author ſhall at his own Charge Print the ſame; In that caſe he to pay the whole Tax according to the Value, to be adjudged by two or more Printers to be Sworn for that purpoſe, before ſuch Book ſhall be put into the Preſs. (Except for ſuch Books of Devotion as ſhall be given in Charity.)</p>
+            <p>In all the before Particulars all Perſons Tax themſelves according to ſuch Degrees as their Extravagancies ſhall prompt to exceed the Decent and Neceſſary Uſes of them: Several whereof not being at all abſolutely requiſite, <hi>(viz.)</hi> Muſick, Singing, Dancing, Gold Chains, Rings, Pearl and Precious Jewels; Clocks, Watches, Plate, Fringe and Lace, <hi>China,</hi> Pictures, <hi>&amp;c.</hi> nor indeed the Exceſſes in Perukes and Commodes, and particularly Extravagant Building, eſpecially in the middle and under Rank of People, during the preſent Chargeable War: However, ſuch whoſe Quality and For<g ref="char:EOLhyphen"/>tunes ought chiefly to have, and that can afford them, and ſuch others whoſe Pride, Humour, and Exceſſes in thoſe Vanities, do, and will far exceed ſuch Decent and Neceſſary Uſes (a thing often wiſh'd and attempted to be reſtrain'd.) I think (with moſt Humble Submiſſion) are the Perſons who with moſt Eaſe, and leaſt Damage or Burthen, can, and ought moſt largely to contribute to the Extra<g ref="char:EOLhyphen"/>ordinary
+<pb n="5" facs="tcp:61867:3" rendition="simple:additions"/>Expence of the War, ſince every ſuch Perſon may, and can abridge at pleaſure.</p>
+            <p>But few Men are ſo Critically knowing in the Intrinſick Value of any Commodity herein named (Plate excepted) as to tell within the Sums mentioned for Taxes, whither they Buy Dear or Cheap, ſo by conſequence cannot feel it.</p>
+            <p>And becauſe very few Yeomen or Farmers will be concern'd in any of the aforementioned Particulars (who have as yet born but ſmall ſhare in the Charge of the War, though ſeldom (if ever) better Markets for Corn, Butter, Cheeſe, <hi>&amp;c.</hi> than ſince the War. That if</p>
+            <p n="9">9. One Shilling <hi>per</hi> Quarter were laid on every Plow of Horſes or Oxen, whoſe owner Farms or Rents above <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pounds <hi>per Annum</hi> (having regard herein for ſuch Free-holders who have paid the Land-Tax for their Free-holds.) And one Shilling <hi>per</hi> Quarter payable by all Perſons who wear or pretend to wear Swords, (Excepting the Army, and with other due Exceptions) together with twelve Pence to be paid for every Motion at any of the Bars of His Majeſty's Courts of Record, and alſo Twenty Shillings for every Cauſe or Trial, <hi>&amp;c.</hi> in any of the ſaid Courts; or at Aſſizes, upon a Verdict given for any thing above the Value of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pounds, to be firſt paid down by the Plaintiff, and allowed him in his Bill of Coſts by the Defendant, if caſt, otherwiſe not; they would make conſiderable Additions to the Fund.</p>
+            <p>It may probably be objected, That</p>
+            <p>'Twill be hard on the Buyer, who parts with his Money for any thing herein named, to pay the Tax, when perhaps he may be out-reach'd in the price; therefore more reaſonable to be paid by the ſeller who gets pro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, &amp;c.</p>
+            <p>The <hi>Anſwer</hi> hereunto is Obvious, if Conſider'd, that firſt, none will be Burthen'd with Taxes for any Commoditie, that lies on hand dead and unſold: Secondly the ſeller is debarr'd of any Juſt preten<g ref="char:EOLhyphen"/>ſions for Inhancing the price thereof, beyond the uſual Value, now common in all things Taxed, as <hi>Bottles, Glaſs, Coles, Stamp'd Paper</hi> and <hi>Parchment,</hi> &amp;c. But in the Manner here Propoſed, ſuch pre<g ref="char:EOLhyphen"/>tenſions are wholly taken away: And Laſtly, the Tax will more certainly be pay'd, for no ſeller will put himſelf at the Mercy of any Informing Buyer, ſince it comes not out of his, but the Buyers Pocket.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:61867:4"/>
+               <head>Now the Method Propoſed for the Eaſie Collecting a Tax thus laid, is Briefly thus,</head>
+               <p>That in every Houſe or Shop, where theſe Commodities are made, or ſold, there may be fixed, the Kings Box, ſo contrived, (which I can do), as not to be pick'd or open'd! whereof the King's head Re<g ref="char:EOLhyphen"/>ceiver, of each Pariſh, Ward, or Hundred to keep the Key: the Ma<g ref="char:EOLhyphen"/>ſter of each ſuch Houſe or Shop to have Three pence in the Pound for all Taxes put therein, and to be anſwerable as well for the due payment as the goodneſs thereof: Having Books for that purpoſe, wherein to be Entred, the Buyer and Sellers Name, and the Name of the Commodity, and price ſold for, with the Summ paid for Tax: which the ſaid Houſe or Shop-keeper, ſhall be obliged to re<g ref="char:EOLhyphen"/>ceive and put into the ſaid Box, in the view of ſuch Buyer, before delivery of ſuch Commodity, whether for ready Money, or on Cre<g ref="char:EOLhyphen"/>dit: And for avoiding all Fraud and Deceit therein, upon the In<g ref="char:EOLhyphen"/>formation of any ſuch Buyer, and proof thereof upon Oath before any Juſtice of Peace, or two or more Commiſſioners for Taxes, within 48 hours after any Goods or Commodity ſo Taxed, being ſold and delivered, for which the Tax hath not been Demanded and actually pay'd into the Box, and fairly Enter'd in the Book as afore<g ref="char:EOLhyphen"/>ſaid, the ſeller of ſuch Commodity to forfeit the Summ of for every ſuch Omiſſion, the one Moiety to the King, and the o<g ref="char:EOLhyphen"/>ther to the Informer: And every ſuch Houſe or Shop keeper, to be anſwerable for their Wife, Servants, and Apprentices unfaithfulneſs therein: The ſaid Box to be opened by ſuch Receiver at Pleaſure, in the Preſence of two or more of the Commiſſioners within that Pariſh, Ward, or Hundred, and of the Houſe or Shop-keeper: And being adjuſted with the Book of Entry's; the ſaid Receiver to give Acquittance for the Summ therein found, and a fair Copy thereof atteſted under the Hands and Seals of the ſaid Commiſſioners, and Houſe or Shop-keeper, to be returned Quarterly into his Majeſties Exchequer, ſo as the ſaid Receiver may be charged to anſwer the ſame.</p>
+               <p>The Teachers of Muſick, Dancing, and Singing, to be obliged not to Teach, under a Penalty, until the Tax be firſt paid, at the next Box to the place where ſuch Schollar ſhall be Taught.</p>
+               <pb n="7" facs="tcp:61867:4"/>
+               <p>The Tax on Plows and Swords to be Collected and Aſſeſſed as the Tax on Marriages, Chriſtenings and Burials.</p>
+               <p>And if any thing herein named ſhould be ſold where no ſuch Box ſhall be fixed as aforeſaid, or be ſent to Perſons Houſes and there a<g ref="char:EOLhyphen"/>greed for <hi>&amp;c.</hi> It may be very eaſie for ſuch Perſons to ſend a Ser<g ref="char:EOLhyphen"/>vant with the Seller to the next place where ſuch Box is, and there to pay the Tax, and Enter the Names of Buyer and Seller as afore<g ref="char:EOLhyphen"/>ſaid; which every Houſe or Shop-keeper where ſuch Boxes are, may willingly, or be injoyned to do <hi>Gratis,</hi> by reaſon of the Three Pence in the Pound to be allow'd him as aforeſaid.</p>
+               <p>One of which Boxes may be carry'd into any Court, <hi>&amp;c.</hi> un<g ref="char:EOLhyphen"/>der the care of the Clerk of the Crown, or Peace; or other Offi<g ref="char:EOLhyphen"/>cer daily attending there. And one alſo may be fixed at each <hi>Play-Houſe</hi> under the Care of him or them who give out the Tickets, &amp;</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Query, </seg>
+                  </label> Now ſuppoſing the ſeveral particulars herein named, were Taxed according to this Propoſal? what Sums may reaſonably be expected to be raiſed thereby.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer, </seg>
+                  </label> This is (I humbly conceive) equally uncertain with other Taxes of this kind, As on <hi>Glaſs, Paper</hi> and <hi>Parchment,</hi> &amp;c. neither being poſſible to be even ſo much as gueſſed at, till after ſome time for Tryal, <hi>&amp;c.</hi> However according to ſuch Eſtimates as I can make from Perſons who are dealers in ſome of them, of what, for Years paſt, have been ſpent therein; I ſhall give two or three In<g ref="char:EOLhyphen"/>ſtances, and ſubmit them to better and more certain Experience.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1. 'Tis Conjectured that there have been for ſeveral Years paſt, upwards of 40 Millions of Thouſands of Bricks and Tyles uſed yearly; How<g ref="char:EOLhyphen"/>ever I will only compute for the one third part thereof which at 1 <hi>s. per</hi> Thouſand will amount to</cell>
+                        <cell>666,666</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>2. By ſeveral Computations, 'tis thought there are upwards of Seven Millions of People (ſome ſay Eight) in <hi>England</hi> and <hi>Wales:</hi> Now ſuppoſe one fourth part of Seven, one with another, to lay out for Hatts, Peruques, Commodes, Muffs, Tip<g ref="char:EOLhyphen"/>pets, Muſick, Singing and Dancing, <hi>&amp;c.</hi> Twenty Shillings each yearly, which at 12 <hi>d.</hi>
+                           <hi>per</hi> Pound, amounts to</cell>
+                        <cell>87,500</cell>
+                        <cell> </cell>
+                     </row>
+                     <pb n="8" facs="tcp:61867:5"/>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label"> </cell>
+                     </row>
+                     <row>
+                        <cell>3. If Disburſed for <hi>China</hi> Ware, Cabinets, Eſ<g ref="char:EOLhyphen"/>critoires, Pictures, Imported, Drawn, Bought and Sold, at Playes. For Plate, Jewels, Clocks, Watches, Fringe and Lace, <hi>&amp;c.</hi> to the Value of 200,000 Pound yearly, at 12 <hi>d.</hi>
+                           <hi>per</hi> Pound that will amount unto</cell>
+                        <cell>10,000</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="total">Theſe three Heads amount to</cell>
+                        <cell role="total">764,166</cell>
+                        <cell role="total">13</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Without Reckoning for Plows, Motions, Cauſes or Tryals, or for Swords, <hi>&amp;c.</hi>
+                     </head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Now this Tax being laid for Seven Years (for then no Perſons would ſuſpend or alter Meaſures in their intended and accuſtomed Uſes of any of theſe particulars depending on the Expiration of this Tax) by the Computation as above would raiſe the Summ of</cell>
+                        <cell>5,349,165</cell>
+                        <cell>11</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>But ſuppoſing ſome of the Particulars before mentioned be omit<g ref="char:EOLhyphen"/>ted, or that ſome or all of them be over computed, and 349,165 <hi>l.</hi> 11 <hi>s.</hi> being ſtruck off, the remaining Five Millions, to me (with humble ſubmiſſion) ſeems very probable to be raiſed with much more Eaſe, and Equality, than by any other Propoſal I have yet ſeen. And,</p>
+               <p>If the Mite here Humbly offer'd, in the whole, or in part, prove Uſeful to the King and Publick, I ſhall account my ſelf very hap<g ref="char:EOLhyphen"/>py in being Inſtrumental therein.</p>
+               <closer>
+                  <signed>J. M.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
